@@ -1,0 +1,8 @@
+# Ignore system directories
+AppData/
+Local Settings/
+Cookies/
+Recent/
+SendTo/
+Desktop.ini
+Thumbs.db
